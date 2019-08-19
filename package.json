@@ -1,6 +1,6 @@
 {
   "name": "react-redux-human-hooks",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "React-Redux hooks for human beings",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,8 @@
 import React from 'react';
 //We provide the necessary modules, you can also import them from redux and react-redux
 import {Provider,createStore} from 'react-redux-human-hooks';
+
+import rootReducer from './reducer';
 import MyComponent from './MyComponent';
 
 //Create the store, in this case we are using teh Redux Devtools middleware
