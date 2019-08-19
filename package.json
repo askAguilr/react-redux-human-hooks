@@ -1,0 +1,33 @@
+{
+  "name": "react-redux-human-hooks",
+  "version": "0.9.0",
+  "description": "React-Redux hooks for human beings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-redux-human-hooks"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "hooks",
+    "easy",
+    "simple",
+    "bindactioncreators",
+    "usebindactioncreators",
+    "useredux",
+    "usereduxstate"
+  ],
+  "author": "Daniel Aguilar Fuentes",
+  "license": "ISC",
+  "dependencies": {
+    "change-case": "^3.1.0",
+    "react": "^16.9.0",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4",
+    "redux-actions": "^2.6.5"
+  }
+}
