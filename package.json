@@ -1,6 +1,6 @@
 {
   "name": "react-redux-human-hooks",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "React-Redux hooks for human beings",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "useredux",
     "usereduxstate"
   ],
-  "author": "Daniel Aguilar Fuentes",
+  "author": "Daniel Aguilar Fuentes - askAguilr",
   "license": "ISC",
   "dependencies": {
     "change-case": "^3.1.0",
