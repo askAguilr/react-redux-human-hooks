@@ -9,11 +9,11 @@
 
 import {useCallback} from 'react';
 import {bindActionCreators,createStore,compose} from 'redux';
-import {useSelector,useDispatch,Provider,connect,MapDispatchToProps,MapStateToProps} from 'react-redux';
+import {useSelector,useDispatch,Provider,connect} from 'react-redux';
 import {handleActions, createAction} from 'redux-actions';
 import changeCase from 'change-case';
 
-export {useDispatch,createAction,Provider,createStore,connect,MapDispatchToProps,MapStateToProps,compose};
+export {useDispatch,createAction,Provider,createStore,connect,compose};
 
 
 export const useReduxState = (selector,deps) => {
